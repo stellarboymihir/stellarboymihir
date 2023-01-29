@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhadangemihir07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BCtAQFqP0fO4pNdBQAnH2RSbKEYz7MtL/view?usp=sharing](https://drive.google.com/file/d/1BCtAQFqP0fO4pNdBQAnH2RSbKEYz7MtL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BCtAQFqP0fO4pNdBQAnH2RSbKEYz7MtL/view?usp=sharing](https://drive.google.com/drive/folders/1FqcV4dlVQOQ5LwJ51VXLp2XGmd9Xb49U)
 
 - ⚡ Fun fact **"Never Give Up"**
 
