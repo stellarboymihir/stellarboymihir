@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mihir Jitendra Bhadange</h1>
+<h1 align="center">Hi 👋, I'm Mihir Bhadange 👨🏻‍💻</h1>
 <h3 align="center">A passionate Flutter Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellarboymihir&label=Profile%20views&color=0e75b6&style=flat" alt="stellarboymihir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stellarboymihir" alt="stellarboymihir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@bhadangemihir" target="blank"><img src="https://img.shields.io/twitter/follow/@bhadangemihir?logo=twitter&style=for-the-badge" alt="@bhadangemihir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhadangemihir" target="blank"><img src="https://img.shields.io/twitter/follow/bhadangemihir?logo=twitter&style=for-the-badge" alt="bhadangemihir" /></a> </p>
 
 - 🔭 I’m currently working on flutter project [mynotes app](https://github.com/stellarboymihir/mynotes)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bhadangemihir07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1FqcV4dlVQOQ5LwJ51VXLp2XGmd9Xb49U](https://drive.google.com/drive/folders/1FqcV4dlVQOQ5LwJ51VXLp2XGmd9Xb49U)
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **I think, I'm funny isn't!**
 
@@ -27,14 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/bhadangemihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/bhadangemihir" height="30" width="40" /></a>
-<a href="https://twitter.com/@bhadangemihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhadangemihir" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/bhadangemihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bhadangemihir" height="30" width="40" /></a>
+<a href="https://twitter.com/bhadangemihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhadangemihir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mihir-bhadange-5572791a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihir-bhadange-5572791a9/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16691306/mihir-bhadange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16691306/mihir-bhadange" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16691306/mihir-bhadange?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16691306/mihir-bhadange?tab=profile" height="30" width="40" /></a>
 <a href="https://instagram.com/stellar_boy_mihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stellar_boy_mihir" height="30" width="40" /></a>
 <a href="https://hashnode.com/@stellarboymihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@stellarboymihir" height="30" width="40" /></a>
 <a href="https://medium.com/@bhadangemihir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhadangemihir07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxhxytrdlv7abmqxc7qx9rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxhxytrdlv7abmqxc7qx9rw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@stellarboymihir562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@stellarboymihir562" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
