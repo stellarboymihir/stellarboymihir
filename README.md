@@ -1,3 +1,5 @@
+[![MasterHead](https://docs.flutter.dev/assets/images/dash/Dashatars.png))](https://stellarboymihir.io)
+
 <h1 align="center">Hi 👋, I'm Mihir Bhadange 👨🏻‍💻</h1>
 <h3 align="center">A passionate Flutter Developer from India.</h3>
 
@@ -5,9 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stellarboymihir" alt="stellarboymihir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhadangemihir" target="blank"><img src="https://img.shields.io/twitter/follow/bhadangemihir?logo=twitter&style=for-the-badge" alt="bhadangemihir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhadangemihir" target="blank"><img src="[https://img.shields.io/twitter/follow/bhadangemihir?logo=twitter&style=for-the-badge](https://twitter.com/intent/follow?screen_name=BhadangeMihir)" alt="bhadangemihir" /></a> </p>
 
-- 🔭 I’m currently working on flutter project [mynotes app](https://github.com/stellarboymihir/mynotes)
+<img src="https://img.shields.io/twitter/follow/bhadangemihir?logo=twitter&style=for-the-badge" alt="bhadangemihir" /></a> </p>
+
+- 🔭 I’m currently working on a flutter project [mynotes app](https://github.com/stellarboymihir/mynotes)
 
 - 🌱 I’m currently learning **Flutter, dart**
 
