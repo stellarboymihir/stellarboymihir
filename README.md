@@ -6,8 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellarboymihir&label=Profile%20views&color=0e75b6&style=flat" alt="stellarboymihir" /> </p>
-
-<p align="left"> <a href="https://twitter.com/bhadangemihir" target="blank"><img src="[https://img.shields.io/twitter/follow/bhadangemihir?logo=twitter&style=for-the-badge](https://twitter.com/intent/follow?screen_name=BhadangeMihir)" alt="bhadangemihir" /></a> </p>
+p align="left"> <a href="https://twitter.com/bhadangemihir" target="blank"><img src="https://img.shields.io/twitter/follow/bhadangemihir?logo=twitter&style=for-the-badge" alt="bhadangemihir" /></a> </p>
 
 - 🔭 I’m currently working on a flutter project [mynotes app](https://github.com/stellarboymihir/mynotes)
 
