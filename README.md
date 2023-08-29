@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCs_OYnodoP5FtyThvrWK_28q484jL_3x7AYZSNkFePvFiDzhnusYGYpDY4KIF5Z0kb3Q&usqp=CAU](https://docs.flutter.dev/assets/images/dash/Dashatars.png))](https://stellarboymihir.io)
+[![MasterHead](https://docs.flutter.dev/assets/images/dash/Dashatars.png))](https://stellarboymihir.io)
 <h1 align="center">Hi 👋, I'm Mihir Bhadange</h1>
 <h3 align="center">A passionate Jr. Java developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1000/0*hPV4goQdeLJEWOpo">
