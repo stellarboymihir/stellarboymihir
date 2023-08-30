@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mihir Bhadange 👨🏻‍💻</h1>
 <h3 align="center">A passionate Flutter Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1000/0*hPV4goQdeLJEWOpo">
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/pai-images/46a7134eb9f642f59edc0fb8f1227e57.jpeg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellarboymihir&label=Profile%20views&color=0e75b6&style=flat" alt="stellarboymihir" /> </p>
