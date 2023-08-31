@@ -1,4 +1,4 @@
-[![MasterHead](https://docs.flutter.dev/assets/images/dash/Dashatars.png))](https://stellarboymihir.io)
+[![MasterHead](https://docs.flutter.dev/assets/images/dash/Dashatars.png)](https://stellarboymihir.io)
 
 <h1 align="center">Hi 👋, I'm Mihir Bhadange 👨🏻‍💻</h1>
 <h3 align="center">A passionate Flutter Developer from India.</h3>
