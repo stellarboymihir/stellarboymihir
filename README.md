@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Flutter, dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stellarboymihir](https://github.com/stellarboymihir/Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/stellarboymihir/Projects)
 
 - 💬 Ask me about **Flutter Development, Android, IOS**
 
 - 📫 How to reach me **bhadangemihir07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/folders/1-GvlUS7-YnUhNzaOodeA1i2BXeas67Cp)
+- 📄 Know about my experiences [Skills, Certifications](https://drive.google.com/drive/folders/1-GvlUS7-YnUhNzaOodeA1i2BXeas67Cp)
 
 - ⚡ Fun fact **I think, I'm funny isn't I!**
 
@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/bhadangemihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bhadangemihir" height="30" width="40" /></a>
 <a href="https://twitter.com/bhadangemihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhadangemihir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mihir-bhadange-5572791a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihir-bhadange-5572791a9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mihir-bhadange-5572791a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihir-bhadange/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16691306/mihir-bhadange?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16691306/mihir-bhadange?tab=profile" height="30" width="40" /></a>
 <a href="https://instagram.com/stellar_boy_mihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stellar_boy_mihir" height="30" width="40" /></a>
 <a href="https://hashnode.com/@stellarboymihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@stellarboymihir" height="30" width="40" /></a>
