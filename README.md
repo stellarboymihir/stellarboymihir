@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **Flutter, dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stellarboymihir](https://github.com/stellarboymihir)
+- 👨‍💻 All of my projects are available at [https://github.com/stellarboymihir](https://github.com/stellarboymihir/Projects)
 
-- 💬 Ask me about **Android/iOS Development**
+- 💬 Ask me about **Flutter Development, Android, IOS**
 
 - 📫 How to reach me **bhadangemihir07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/folders/1-GvlUS7-YnUhNzaOodeA1i2BXeas67Cp)
 
-- ⚡ Fun fact **I think, I'm funny isn't!**
+- ⚡ Fun fact **I think, I'm funny isn't I!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
